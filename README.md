@@ -2,8 +2,6 @@
 <h3 align="center">A passionate FullStack developer from Colombia</h3>
 
 
-- 🔭 I’m currently working on [Boti](https://github.com/celfiew/boti)
-
 - 🌱 I’m currently learning with Digital House **Tech Certified Developer**
 
 - 📄 Email me at [celfiew@gmail.com](celfiew@gmail.com)
