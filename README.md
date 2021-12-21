@@ -2,7 +2,7 @@
 <h3 align="center">An investor and passionate developer from Colombia</h3>
 
 
--:computer: I’m currently doing a Tech career with Digital House **Tech Certified Developer**
+- :computer: I’m currently doing a Tech career with Digital House **Tech Certified Developer**
 
 - 📄 Email me at [celfiew@gmail.com](celfiew@gmail.com)
 
