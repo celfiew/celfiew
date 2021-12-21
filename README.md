@@ -6,7 +6,7 @@
 
 - 📄 Email me at [celfiew@gmail.com](celfiew@gmail.com)
 
-- ⚡ My pleasures **Storytelling :pencil2:  Financials Markets :chart_with_upwards_trend:  AI :robot:  Reading :books: .**
+- ⚡ My pleasures **Storytelling :pencil2: / Financials Markets :chart_with_upwards_trend: / AI :robot: / Reading :books: .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
