@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm César Mauricio Fierro</h1>
-<h3 align="center">A passionate FullStack developer from Colombia</h3>
+<h3 align="center">An investor and passionate developer from Colombia</h3>
 
 
-- 🌱 I’m currently learning with Digital House **Tech Certified Developer**
+-:computer: I’m currently doing a Tech career with Digital House **Tech Certified Developer**
 
 - 📄 Email me at [celfiew@gmail.com](celfiew@gmail.com)
 
-- ⚡ About me **Storytelling, Financials Markets, AI.**
+- ⚡ My pleasures **Storytelling :pencil2: - Financials Markets :chart_with_upwards_trend: - AI :robot: - Reading :books: .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
