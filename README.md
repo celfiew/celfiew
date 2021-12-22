@@ -6,7 +6,7 @@
 
 - 📄 Email me at [celfiew@gmail.com](celfiew@gmail.com)
 
-- 📄 Check my resume in [english](https://drive.google.com/file/d/1AEDxIlJ8GrNVN6DK5FapfFQAmwKymSJY/view) or [spanish](https://drive.google.com/file/d/1ffgEGBPmddvZFvlBrg2bC3X2IRTTh7nY/view)
+- 📄 Check my resume in [english](https://drive.google.com/file/d/16iqe4TB_w5pCmSD8TCwVv3CfZGrp1QMn/view) or [spanish](https://drive.google.com/file/d/1ffgEGBPmddvZFvlBrg2bC3X2IRTTh7nY/view)
 
 - ⚡ My pleasures **Storytelling :pencil2: / Financials Markets :chart_with_upwards_trend: / AI :robot: / Reading :books: .**
 
