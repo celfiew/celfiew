@@ -4,7 +4,7 @@
 
 - :computer: I’m currently doing a Tech career with Digital House **Tech Certified Developer**
 
-- 📄 Email me at [celfiew@gmail.com](celfiew@gmail.com)
+- :email: Email me at [celfiew@gmail.com](celfiew@gmail.com)
 
 - :bookmark_tabs: Check my resume in [english](https://drive.google.com/file/d/16iqe4TB_w5pCmSD8TCwVv3CfZGrp1QMn/view) or [spanish](https://drive.google.com/file/d/1ffgEGBPmddvZFvlBrg2bC3X2IRTTh7nY/view)
 
