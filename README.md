@@ -8,7 +8,8 @@
 
 - :bookmark_tabs: Check my resume in [english](https://drive.google.com/file/d/16iqe4TB_w5pCmSD8TCwVv3CfZGrp1QMn/view) or [spanish](https://drive.google.com/file/d/1ffgEGBPmddvZFvlBrg2bC3X2IRTTh7nY/view)
 
-- :blush: My principals pleasures are **Storytelling :pencil2: / Financials Markets :chart_with_upwards_trend: / Reading :books: / Programing and AI :robot:  .**
+- :blush: My principals pleasures are **Storytelling :pencil2: / Financials Markets :chart_with_upwards_trend: / Reading :books: 
+  / Programing and AI :robot:  .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
