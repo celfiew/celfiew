@@ -6,7 +6,7 @@
 
 - :email: Email me at [celfiew@gmail.com](celfiew@gmail.com)
 
-- :bookmark_tabs: Check my resume in [english](https://drive.google.com/file/d/16iqe4TB_w5pCmSD8TCwVv3CfZGrp1QMn/view) or [spanish](https://drive.google.com/file/d/1ffgEGBPmddvZFvlBrg2bC3X2IRTTh7nY/view)
+- :bookmark_tabs: Check my resume in [English](https://drive.google.com/file/d/16iqe4TB_w5pCmSD8TCwVv3CfZGrp1QMn/view) or [Spanish](https://drive.google.com/file/d/1ffgEGBPmddvZFvlBrg2bC3X2IRTTh7nY/view)
 
 - :blush: My principals pleasures are **Storytelling :pencil2: / Financials Markets :chart_with_upwards_trend: / Reading :books: 
   / Programing and AI :robot:  .**
